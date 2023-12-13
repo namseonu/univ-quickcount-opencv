@@ -23,22 +23,22 @@ class Answer:
         IMAGE_PATH + "05_people_by_WernerHieber.jpg"
     ]
 
-    ANSWERS = {
+    ANSWERS = [
         # there are 12 people in the image 01_people_by_AdinaVoicu.jpg
-        extract_index_from_image_file_name(IMAGES[0]): 12,
+        12,
 
         # there are 1 person in the image 02_people_by_Pexels.jpg
-        extract_index_from_image_file_name(IMAGES[1]): 1,
+        1,
 
         # there are 4 people in the image 03_people_by_StefanSchweihofer.jpg
-        extract_index_from_image_file_name(IMAGES[2]): 4,
+        4,
 
         # there are 9 people in the image 04_people_by_StockSnap.jpg
-        extract_index_from_image_file_name(IMAGES[3]): 9,
+        9,
 
         # there are 6 people in the image 05_people_by_WernerHieber.jpg
-        extract_index_from_image_file_name(IMAGES[4]): 6,
-    }
+        6,
+    ]
 
     @staticmethod
     def get_images():
