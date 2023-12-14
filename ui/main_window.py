@@ -128,7 +128,11 @@ class QuickCount(QMainWindow):
     # save the answer by user and show the image by OpenCV
     def confirm_answer(self):
         # save the answer by user
-        answer_by_user = int(self.input_by_user.text())
+        input_count = self.input_by_user.text()
+        if input_count == "":
+            input_count = 0
+
+        answer_by_user = int(input_count)
         self.answers_by_user.append(answer_by_user)
 
         # show the image by OpenCV
