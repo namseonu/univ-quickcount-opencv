@@ -61,6 +61,9 @@ pip install -r requirements.txt
 4. Install the packages in the requirements.txt file.
 5. **<u>Execute the 'main.py' file.</u>**
 
+🚨 **You should download the YOLO model and configuration files.**  
+🚨 **This is just term project for studying OpenCV, so the dynamic result is not possible. Result should be only set through hard-coded.**  
+
 ```plain text
 .
 ├── README.md
