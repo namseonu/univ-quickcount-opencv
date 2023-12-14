@@ -24,9 +24,9 @@ This is a program that counts the number of people in a image. It is implemented
 10. Finally, press the 'Close' button to exit the game.
 
 ### 1.3 Demo
-#### 1.3.1 Demo with .gif
-- Because of the size, I uploaded the demo with .gif to google drive.
-- [Here!](https://drive.google.com/file/d/1Dcwk8u9bxPLG-tp5aElgda413lkDS7Y4/view?usp=sharing)
+#### 1.3.1 Demo with video
+- Because of the size, I uploaded the demo with video to Google Drive.
+- [Here!](https://drive.google.com/drive/folders/14zS2YhXQZ89HuzIG06i66wVkW5mRzHHU?usp=sharing)
 
 #### 1.3.2 Demo with images
 ![image](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/3e7c0f56-0d0b-491f-8d65-015d777873f6)  
