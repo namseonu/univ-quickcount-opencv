@@ -107,8 +107,8 @@ class QuickCount(QMainWindow):
             image = self.images[self.current_image_index]
             self.lbl_image.setPixmap(QPixmap(image))
 
-            # after 1 second, then execute the function enter_count_by_user
-            self.timer.start(1000)
+            # after about 1 second, then execute the function enter_count_by_user
+            self.timer.start(1500)
 
     # show the window for user input
     def enter_count_by_user(self):
