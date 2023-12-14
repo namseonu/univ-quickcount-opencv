@@ -8,7 +8,7 @@
 This is a program that counts the number of people in a image. It is implemented using YOLO, a deep learning algorithm. You can compete with OpenCV to see who is faster and more accurate. It is just game for fun and studying OpenCV.
 
 ### 1.1 Objectives
-- <u>To learn how to use OpenCV and YOLO</u> with fun.
+- **<u>To learn how to use OpenCV and YOLO</u>** with fun.
 - To learn how to use other python packages/libraries.
 
 ### 1.2 The manual of 'Quick Count' game:
@@ -23,9 +23,11 @@ This is a program that counts the number of people in a image. It is implemented
 9. The result of the game is displayed on the screen.
 10. Finally, press the 'Close' button to exit the game.
 
-### 1.3 Demo (.gif)
+### 1.3 Demo
+#### 1.3.1 Demo with .gif
+![quickcount](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/297158f0-7c98-4d6c-9278-ddd32b1c976f)
 
-
+#### 1.3.2 Demo with images
 ![image](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/3e7c0f56-0d0b-491f-8d65-015d777873f6)  
 ![image](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/6b0c24ad-64b4-458a-8b6d-71f5686e104c)  
 ![image](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/c64b82fd-f9c6-4efe-83cc-405860ea7cb7)    
@@ -54,10 +56,10 @@ pip install -r requirements.txt
 ## 3. How to Install or Execute
 🌟 If you want to execute this program, then follow the guideline below. 🌟
 1. Download the YOLOv3 weights file from [here](https://pjreddie.com/media/files/yolov3.weights).
-2. Download the YOLOv3 configuration file from [here]()
+2. Download the YOLOv3 configuration file from [here](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
 3. The files should be located in the 'opencv' package. (like below)
 4. Install the packages in the requirements.txt file.
-5. <u>Execute the 'main.py' file.</u>
+5. **<u>Execute the 'main.py' file.</u>**
 
 ```plain text
 .
