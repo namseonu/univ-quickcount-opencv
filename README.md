@@ -7,7 +7,11 @@
 ## 1. Introduction
 This is a program that counts the number of people in a image. It is implemented using YOLO, a deep learning algorithm. You can compete with OpenCV to see who is faster and more accurate. It is just game for fun and studying OpenCV.
 
-### 1.1 The manual of 'Quick Count' game:
+### 1.1 Objectives
+- <u>To learn how to use OpenCV and YOLO</u> with fun.
+- To learn how to use other python packages/libraries.
+
+### 1.2 The manual of 'Quick Count' game:
 1. Start the game by pressing the 'Start' button.
 2. The image is displayed on the screen for about 1 second.
 3. The image disappears and the user must enter the number of people in the image.
@@ -19,7 +23,15 @@ This is a program that counts the number of people in a image. It is implemented
 9. The result of the game is displayed on the screen.
 10. Finally, press the 'Close' button to exit the game.
 
-### 1.2 Demo Images / Video (.gif)
+### 1.3 Demo (.gif)
+
+
+![image](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/3e7c0f56-0d0b-491f-8d65-015d777873f6)  
+![image](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/6b0c24ad-64b4-458a-8b6d-71f5686e104c)  
+![image](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/c64b82fd-f9c6-4efe-83cc-405860ea7cb7)    
+![image](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/a7d22516-335f-4146-9af5-90bf5bd7f364)  
+![image](https://github.com/namseonu/univ-quickcount-opencv/assets/77925666/fe2df917-8737-4bfa-a900-783f2a1fc4fc)  
+
 
 <br/>
 
